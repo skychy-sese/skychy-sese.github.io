@@ -4,6 +4,10 @@ title: 关于
 permalink: /about/
 ---
 
+<div class="avatar-home">
+  <img src="/assets/avatar.jpg" alt="头像">
+</div>
+
 这里是「心中的那点涩涩」，一个普通人的自留地。
 
 不追热点，不赶潮流，想起来了就写两笔：生活、路上、吃食、胡思乱想，还有心里那一点说不出口的小九九。
